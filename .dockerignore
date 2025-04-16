@@ -1,0 +1,15 @@
+.gradle
+out
+*.iml
+*.log
+*.bat
+*.sh
+*.md
+*.txt
+.DS_Store
+.idea
+.vscode
+*.class
+*.jar
+*.war
+*.ear
